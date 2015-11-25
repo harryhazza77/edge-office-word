@@ -1,1 +1,2 @@
 add from branch1
+add 2 from branch1 after git pull resulted in a merge commit
